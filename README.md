@@ -2,18 +2,23 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)
 
 ## Description
-
+This application will run in the browser and it will be able to run offline. It will be a single-page application that meets the PWA criteria.
 
 ## Technologies
-
+* Javascript
+* Express.js
+* Webpack
 
 ## Installation
+* Clone github repository and run npm i in the command-line
+* Run npm start to start the client and the server
 
 
 ## Usage
+This application would allow the user to type code online on the browser and offline.
 
-
-
+## Future Development
+* To debug the application so then it would be deployed via heroku and run offline
 
 ## Credits
 - [ALEXANDRIA GUERRERO](https://github.com/Ag6793)
